@@ -11,4 +11,4 @@ return new_array
 
 end
 
-square_array(1,2,3)
+p square_array(1,2,3)
